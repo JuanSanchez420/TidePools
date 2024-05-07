@@ -1,0 +1,7 @@
+EI = "Not exact input"
+NB = "No balance"
+NP = "Caller isn't the expected Uniswap Pool"
+NV = "No value (no ether sent)"
+NZL = "Non-zero liqudity"
+SL = "Slippage limit exceeded"
+TLR = "Too little received"
